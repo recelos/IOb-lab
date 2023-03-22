@@ -1,2 +1,2 @@
 # IOb-lab
-Laboratoria z Inżynierii obrazów
+## Laboratoria z `Inżynierii obrazów`
